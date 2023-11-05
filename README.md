@@ -50,7 +50,7 @@ Slender Boy is a first-person survival horror game designed for enthusiasts of t
 The story unfolds with the protagonist's search for a lost friend during a camping trip, only to be stalked by the ominous Slender Boy. The player must find the 6 artifacts to unravel the mystery and escape.
 
 ## Map
-A vast 4x4 landscape with a variety of environments ranging from dense forests to decrepit man-made structures.
+A vast 8x8 landscape with a variety of environments ranging from dense forests to decrepit man-made structures.
 
 ## Sound
 - Atmospheric and environmental sounds dominate gameplay, with musical elements reserved for menus.
