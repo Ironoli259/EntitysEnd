@@ -1,11 +1,11 @@
-# SlenderBoy
+# Entity's End
 
 ## Game Overview
-Slender Boy is a first-person survival horror game designed for enthusiasts of the horror and suspense genre. The game is set in a foreboding forest where players are tasked with finding 6 artifacts by solving puzzles and evading the relentless Slender Boy. This game features a unique VHS-style camera view and an increasingly aggressive enemy AI.
+Entity's End is a first-person survival horror game designed for enthusiasts of the horror and suspense genre. The game is set in a foreboding forest where players are tasked with finding 6 artifacts by solving puzzles and evading the relentless Entity. This game features a unique VHS-style camera view and an increasingly aggressive enemy AI.
 
 ### Special Features:
 - First-person POV with a VHS-style camera view.
-- An increasingly aggressive Slender Boy as the game progresses.
+- An increasingly aggressive Entity as the game progresses.
 
 ## Team
 - Dominic
@@ -18,15 +18,15 @@ Slender Boy is a first-person survival horror game designed for enthusiasts of t
 ### Core Mechanics
 - **Exploration**: Players will navigate a dark, ominous forest.
 - **Collection**: The objective is to find all six artifacts.
-- **Survival**: Players must avoid Slender Boy to stay alive.
+- **Survival**: Players must avoid the Entity to stay alive.
 
 ### Progression
 - Artifacts can be collected through discovery or puzzle-solving.
-- The AI behavior of Slender Boy escalates with each artifact found.
+- The AI behavior of the Entity escalates with each artifact found.
 - The ambient soundscape intensifies as the game progresses.
 
 ### Challenges
-- Slender Boy's unpredictable appearances.
+- The Entity's unpredictable appearances.
 - Limited battery life for the flashlight feature.
 - Sudden jumpscares.
 
@@ -43,18 +43,18 @@ Slender Boy is a first-person survival horror game designed for enthusiasts of t
 
 ### Characters
 - **Player**: An unnamed protagonist searching for a missing friend.
-- **Slender Boy**: A mysterious entity hunting the player.
+- **Entity**: A mysterious entity hunting the player.
 - **Friend**: The player's missing companion.
 
 ### Plot
-The story unfolds with the protagonist's search for a lost friend during a camping trip, only to be stalked by the ominous Slender Boy. The player must find the 6 artifacts to unravel the mystery and escape.
+The story unfolds with the protagonist's search for a lost friend during a camping trip, only to be stalked by the ominous Entity. The player must find the 6 artifacts to unravel the mystery and escape.
 
 ## Map
 A vast 8x8 landscape with a variety of environments ranging from dense forests to decrepit man-made structures.
 
 ## Sound
 - Atmospheric and environmental sounds dominate gameplay, with musical elements reserved for menus.
-- Distortion effects signal the proximity of Slender Boy.
+- Distortion effects signal the proximity of the Entity.
 
 ## UI
 - Minimalistic, displaying only critical information like battery life and artifact count.
